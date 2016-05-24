@@ -19,7 +19,7 @@ Scheme
 	Colors
 	{
 		// base colors
-		"White"				"255 35 85 255"
+		"White"				"255 255 255 255"
 		"OffWhite"			"216 216 216 255"
 		"DullWhite"			"0 0 0 0"
 		"Orange"			"5 5 5 200"
@@ -43,17 +43,17 @@ Scheme
 	BaseSettings
 	{
 		// vgui_controls color specifications
-		Border.Bright					"5 5 5 200"	// the lit side of a control
-		Border.Dark						"5 5 5 200"		// the dark/unlit side of a control
-		Border.Selection				"255 35 85 255"			// the additional border color for displaying the default/selected button
+		Border.Bright					"0 0 0 0"	// the lit side of a control
+		Border.Dark						"0 0 0 0"		// the dark/unlit side of a control
+		Border.Selection				"0 0 0 0"			// the additional border color for displaying the default/selected button
 
-		Button.TextColor				"White"
-		Button.BgColor					"255 255 255 8"
-		Button.ArmedTextColor			"White"
-		Button.ArmedBgColor				"255 35 85 50"
-		Button.DepressedTextColor		"White"
-		Button.DepressedBgColor			"255 35 85 128"
-		Button.FocusBorderColor			"Black"
+		Button.TextColor				"0 0 0 0"
+		Button.BgColor					"0 0 0 0"
+		Button.ArmedTextColor			"0 0 0 0"
+		Button.ArmedBgColor				"0 0 0 0"
+		Button.DepressedTextColor		"0 0 0 0"
+		Button.DepressedBgColor			"0 0 0 0"
+		Button.FocusBorderColor			"0 0 0 0"
 
 		CheckButton.TextColor			"White"
 		CheckButton.SelectedTextColor		"White"
@@ -74,15 +74,15 @@ Scheme
 		Frame.TitleTextInsetX			16
 		Frame.ClientInsetX				8
 		Frame.ClientInsetY				6
-		Frame.BgColor					"5 5 5 200"						//Overall overfalder
+		Frame.BgColor					"0 0 0 0"						//Overall overfalder
 		Frame.OutOfFocusBgColor			"5 5 5 200"						//Overfalder paa vinduer der er i baggrunden
 		Frame.FocusTransitionEffectTime	"0.05"							// time it takes for a window to fade in/out on focus/out of focus
 		Frame.TransitionEffectTime		"0.05"							// time it takes for a window to fade in/out on open/close
 		Frame.AutoSnapRange				"0"
 		FrameGrip.Color1				"255 35 85 255"
-		FrameGrip.Color2				"0 0 0 100"
-		FrameTitleButton.FgColor		"255 35 85 255"
-		FrameTitleButton.BgColor		"Blank"
+		FrameGrip.Color2				"0 0 0 0"
+		FrameTitleButton.FgColor		"0 0 0 0"
+		FrameTitleButton.BgColor		"0 0 0 0"
 		FrameTitleButton.DisabledFgColor	"255 35 85 128"
 		FrameTitleButton.DisabledBgColor	"Blank"
 		FrameSystemButton.FgColor		"Blank"
@@ -134,21 +134,21 @@ Scheme
 		RadioButton.SelectedTextColor	"White"
 
 		RichText.TextColor				"OffWhite"
-		RichText.BgColor				"TransparentBlack"
-		RichText.SelectedTextColor		"Black"
+		RichText.BgColor				"0 0 0 0"
+		RichText.SelectedTextColor		"255 0 85 100"
 		RichText.SelectedBgColor		"LightBlue"
 
-		ScrollBar.Wide					"4"
+		ScrollBar.Wide					"0"
 
-		ScrollBarButton.FgColor				"255 35 85 128"
-		ScrollBarButton.BgColor				"Blank"
-		ScrollBarButton.ArmedFgColor		"255 35 85 255"
-		ScrollBarButton.ArmedBgColor		"Blank"
-		ScrollBarButton.DepressedFgColor	"255 35 85 255"
-		ScrollBarButton.DepressedBgColor	"TransparentBlack"
+		ScrollBarButton.FgColor				"0 0 0 0"
+		ScrollBarButton.BgColor				"0 0 0 0"
+		ScrollBarButton.ArmedFgColor		"0 0 0 0"
+		ScrollBarButton.ArmedBgColor		"0 0 0 0"
+		ScrollBarButton.DepressedFgColor	"0 0 0 0"
+		ScrollBarButton.DepressedBgColor	"0 0 0 0"
 
-		ScrollBarSlider.FgColor				"255 35 85 32"
-		ScrollBarSlider.BgColor				"0 0 0 130"
+		ScrollBarSlider.FgColor				"0 0 0 0"
+		ScrollBarSlider.BgColor				"0 0 0 0"
 
 		SectionedListPanel.HeaderTextColor	"White"
 		SectionedListPanel.HeaderBgColor	"Blank"
@@ -325,15 +325,15 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Times New Roman"//Verdana
-				"tall"		"11"
+				"name"		"Georgia"//Verdana
+				"tall"		"12"
 				"weight"	"1000"
 				"yres"		"480 599"
 				"outline"	"1"
 			}
 			"2"
 			{
-				"name"		"Tahoma"
+				"name"		"Georgia"
 				"tall"		"12"
 				"weight"	"1000"
 				"yres"		"600 767"
@@ -341,24 +341,24 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Tahoma"
-				"tall"		"13"
-				"weight"	"1000"
+				"name"		"Georgia"
+				"tall"		"16"
+				"weight"	"400"
 				"yres"		"768 1023"
 				"outline"	"1"
 			}
 			"4"
 			{
-				"name"		"Consolas"
-				"tall"		"12"
-				"weight"	"400"
+				"name"		"Georgia"
+				"tall"		"20"
+				"weight"	"800"
 				"yres"		"1024 1199"
-				"outline"	"0"
+				"outline"	"1"
 			}
 			"5"
 			{
-				"name"		"Tahoma"
-				"tall"		"21"
+				"name"		"Georgia"
+				"tall"		"12"
 				"weight"	"1000"
 				"yres"		"1200 10000"
 				"outline"	"1"

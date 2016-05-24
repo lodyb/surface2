@@ -16,15 +16,15 @@ Scheme
 	Colors
 	{
 		// base colors
-		"Orange"			"255 176 0 255"
-		"OrangeDim"			"255 176 0 120"
+		"Orange"			"255 255 255 255"
+		"OrangeDim"			"255 255 255 120"
 		"LightOrange"		"188 112 0 128"
 		
 		"Red"				"192 28 0 140"
 		"Black"				"0 0 0 255"
-		"TransparentBlack"	"0 0 0 196"
-		"TransparentLightBlack"	"0 0 0 90"
-		"RoundWinPanelBackground" "0 0 0 179"
+		"TransparentBlack"	"0 0 0 0"
+		"TransparentLightBlack"	"0 0 0 0"
+		"RoundWinPanelBackground" "0 0 0 0"
 
 		"Blank"				"0 0 0 0"
 		"ForTesting"		"255 0 0 32"
@@ -840,6 +840,7 @@ Scheme
 				"tall"		"12"
 				"weight"	"700"
 				"yres"	"480 599"
+				"outline"	"1"
 			}
 			"2"
 			{
@@ -847,6 +848,7 @@ Scheme
 				"tall"		"13"
 				"weight"	"700"
 				"yres"	"600 767"
+				"outline"	"1"
 			}
 			"3"
 			{
@@ -857,10 +859,11 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
 				"tall"		"20"
-				"weight"	"700"
-				"yres"	"1024 1199"
+				"weight"	"800"
+				"yres"		"1024 1199"
+				"outline"	"1"
 			}
 			"5"
 			{
