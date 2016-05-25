@@ -255,56 +255,62 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"10"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"12"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"15"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"20"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"24"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"7"
 			{
@@ -312,14 +318,15 @@ Scheme
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 		}
 		"DefaultBig"
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"12"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -327,7 +334,8 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"15"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -335,34 +343,38 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"19"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"26"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"30"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"18"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -372,7 +384,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"14"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -380,7 +393,8 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"18"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -388,34 +402,38 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"23"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"31"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"36"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"22"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -426,7 +444,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"19"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -434,7 +453,8 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"24"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -442,34 +462,38 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"31"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"41"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"48"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"22"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -480,7 +504,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"22"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -488,7 +513,8 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"28"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -496,34 +522,38 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"36"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"48"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"56"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"28"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -534,7 +564,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"24"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -542,7 +573,8 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"34"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -550,34 +582,38 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"42"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"54"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"64"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"32"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -588,11 +624,12 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"14"
 				"weight"	"700"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 		}			
 		"DefaultUnderline"
@@ -617,48 +654,53 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"480 599"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"600 767"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"15"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"768 1023"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"1024 1199"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"24"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"1200 6000"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"6"
 			{
@@ -666,14 +708,15 @@ Scheme
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 		}
 		"CSUnderline"
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -682,7 +725,8 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -691,32 +735,35 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"768 1023"
-				"antialias"	"1"
+				"antialias"	"0"
 				"underline" "1"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"1024 1199"
-				"antialias"	"1"
+				"antialias"	"0"
 				"underline" "1"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"24"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"1200 6000"
-				"antialias"	"1"
+				"antialias"	"0"
 				"underline" "1"
 			}
 			"6"
@@ -732,7 +779,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -740,7 +788,8 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -748,34 +797,38 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"15"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"24"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
@@ -793,30 +846,33 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 1199"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"15"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1200 6000"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 		}
 		CenterPrintText
@@ -836,7 +892,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"	"480 599"
@@ -844,7 +901,8 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"	"600 767"
@@ -852,7 +910,8 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"	"768 1023"
@@ -860,6 +919,7 @@ Scheme
 			"4"
 			{
 				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"20"
 				"weight"	"800"
 				"yres"		"1024 1199"
@@ -867,7 +927,8 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"	"1200 10000"
@@ -890,7 +951,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"11"
 				"weight"	"700"
 				"antialias" "1"
@@ -903,7 +965,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"11"
 				"weight"	"700"
 				"antialias" "1"
@@ -913,7 +976,8 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"11"
 				"weight"	"700"
 				"antialias" "1"
@@ -923,7 +987,8 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"12"
 				"weight"	"900"
 				"antialias" "1"
@@ -932,7 +997,8 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"16"
 				"weight"	"900"
 				"antialias" "1"
@@ -941,7 +1007,8 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"17"
 				"weight"	"1000"
 				"antialias" "1"
@@ -1098,6 +1165,7 @@ Scheme
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
 				"additive"	"0"
+				"outline" "1"
 			}
 		}
 
@@ -1113,11 +1181,12 @@ Scheme
 			}
 			"2"
 			{
-				"name"  "Verdana"
+				"name"  "Georgia"
 				"tall"  "28"
 				"weight" "0"
 				"additive" "1"
 				"antialias" "1"
+				"outline" "1"
 			}
 		}
 		"CloseCaption_Normal"
@@ -1178,10 +1247,11 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana Bold"
+				"name"		"Georgia Bold"
+				"outline" "1"
 				"tall"		"18"
 				"weight"	"500"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 		}
 		"Trebuchet24"
@@ -1224,7 +1294,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"	"480 599"
@@ -1232,7 +1303,8 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"	"600 767"
@@ -1240,7 +1312,8 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"	"768 1023"
@@ -1248,7 +1321,8 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"	"1024 1199"
@@ -1256,7 +1330,8 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"	"1200 10000"
@@ -1267,7 +1342,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"	"480 599"
@@ -1275,7 +1351,8 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"	"600 767"
@@ -1283,7 +1360,8 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"	"768 1023"
@@ -1291,7 +1369,8 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"	"1024 1199"
@@ -1299,7 +1378,8 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"	"1200 10000"
@@ -1312,8 +1392,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana" [!$OSX]
-				"name"		"Verdana Bold" [$OSX]
+				"name"		"Georgia" [!$OSX]
+				"outline" "1"
+				"name"		"Georgia Bold" [$OSX]
+				"outline" "1"
 				"tall"		"16"
 				"weight"	"1200"
 				"antialias" "1"
@@ -1324,8 +1406,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana" [!$OSX]
-				"name"		"Verdana Bold" [$OSX]
+				"name"		"Georgia" [!$OSX]
+				"outline" "1"
+				"name"		"Georgia Bold" [$OSX]
+				"outline" "1"
 				"tall"		"12"
 				"weight"	"1200"
 				"antialias" "1"
@@ -1334,8 +1418,10 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana" [!$OSX]
-				"name"		"Verdana Bold" [$OSX]
+				"name"		"Georgia" [!$OSX]
+				"outline" "1"
+				"name"		"Georgia Bold" [$OSX]
+				"outline" "1"
 				"tall"		"16"
 				"weight"	"1200"
 				"antialias" "1"
@@ -1373,7 +1459,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana" [!$OSX]
+				"name"		"Georgia" [!$OSX]
+				"outline" "1"
 				"name"		"Helvetica Bold" [$OSX]
 				"weight"		"1200"
 				"tall"			"12"
@@ -1385,7 +1472,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana" [!$OSX]
+				"name"		"Georgia" [!$OSX]
+				"outline" "1"
 				"name"		"Helvetica" [$OSX]
 				"weight"		"700"
 				"tall"			"9"
@@ -1397,12 +1485,13 @@ Scheme
 		{		
 			"1"
 			{
-				"name"		"Verdana Bold" [!$OSX]
+				"name"		"Georgia Bold" [!$OSX]
+				"outline" "1"
 				"name"		"Helvetica" [$OSX]
 				"tall"		"9"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A			
-				"antialias"	"1" [!$OSX]
+				"antialias"	"0" [!$OSX]
 			}	
 		}
 		
@@ -1410,12 +1499,13 @@ Scheme
 		{		
 			"1"
 			{
-				"name"		"Verdana Bold" [!$OSX]
+				"name"		"Georgia Bold" [!$OSX]
+				"outline" "1"
 				"name"		"Helvetica" [$OSX]
 				"tall"		"14"
 				"weight"	"600"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A				
-				"antialias"	"1"
+				"antialias"	"0"
 			}	
 		}
 		
@@ -1423,12 +1513,13 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"Verdana Bold" [!$OSX]
+				"name"		"Georgia Bold" [!$OSX]
+				"outline" "1"
 				"name"		"Helvetica" [$OSX]
 				"tall"		"18"
 				"weight"	"600"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A				
-				"antialias"	"1"
+				"antialias"	"0"
 			}	
 		}
 
@@ -1436,12 +1527,13 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana" [!$OSX]
+				"name"		"Georgia" [!$OSX]
+				"outline" "1"
 				"name"		"Helvetica" [$OSX]
 				"tall"		"14"
 				"weight"	"700"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"antialias"	"1" [!$OSX]
+				"antialias"	"0" [!$OSX]
 			}
 		}
 
@@ -1449,12 +1541,14 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana Bold" [!$OSX]
-				"name"		"Verdana" [$OSX]
+				"name"		"Georgia Bold" [!$OSX]
+				"outline" "1"
+				"name"		"Georgia" [$OSX]
+				"outline" "1"
 				"tall"		"9" 
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"antialias"	"1" [!$OSX]
+				"antialias"	"0" [!$OSX]
 			}
 		}
 
@@ -1466,7 +1560,7 @@ Scheme
 				"tall"		"14"
 				"weight"	"0"
 				"additive"	"1"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 		}
 
@@ -1474,7 +1568,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"6"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1482,7 +1577,8 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"8"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1490,39 +1586,43 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"768 959"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"960 1023"
-				"antialias"	"1" [!$OSX]
+				"antialias"	"0" [!$OSX]
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1024 1199"
-				"antialias"	"1" [!$OSX]
+				"antialias"	"0" [!$OSX]
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1200 6000"
-				"antialias"	"1" [!$OSX]
+				"antialias"	"0" [!$OSX]
 			}
 		}
 
@@ -1530,11 +1630,12 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana bold"
+				"name"		"Georgia bold"
+				"outline" "1"
 				"tall"		"8"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 		}
 
@@ -1542,11 +1643,12 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana bold"
+				"name"		"Georgia bold"
+				"outline" "1"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 		}
 
@@ -1554,11 +1656,12 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana bold"
+				"name"		"Georgia bold"
+				"outline" "1"
 				"tall"		"45"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 		}
 
@@ -1566,11 +1669,12 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana bold"
+				"name"		"Georgia bold"
+				"outline" "1"
 				"tall"		"8"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"antialias"	"1" [!$OSX]
+				"antialias"	"0" [!$OSX]
 			}
 		}
 		
@@ -1578,11 +1682,12 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana bold"
+				"name"		"Georgia bold"
+				"outline" "1"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 		}
 		
@@ -1590,11 +1695,12 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana bold"
+				"name"		"Georgia bold"
+				"outline" "1"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 		}
 
@@ -1602,12 +1708,13 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana" 
+				"name"		"Georgia" 
+				"outline" "1"
 				"tall"		"10" [!$OSX]
 				"tall"		"11" [$OSX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 		}
 
@@ -1615,12 +1722,13 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana" 
+				"name"		"Georgia" 
+				"outline" "1"
 				"tall"		"8" [!$OSX]
 				"tall"		"9" [$OSX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 		}
 
@@ -1628,12 +1736,13 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana" 
+				"name"		"Georgia" 
+				"outline" "1"
 				"tall"		"7" [!$OSX]
 				"tall"		"8" [$OSX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 		}
 
@@ -1641,11 +1750,12 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana"
+				"name"		"Georgia"
+				"outline" "1"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 		}
 	}

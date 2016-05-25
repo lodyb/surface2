@@ -7,12 +7,12 @@
 		"xpos"	"8"
 		"ypos"	"446"
 		"zpos"	"0"
- 		"wide"	"80"
-		"tall"  "25"
+ 		"wide"	"0"
+		"tall"  "0"
 		"visible" "0"
 		"enabled" "0"
 
-		"PaintBackgroundType"	"2"
+		"PaintBackgroundType"	"-1"
 		"bgcolor_override"		"0 0 0 96"
 		
 		"icon_xpos"	"8"
@@ -28,8 +28,8 @@
 		"xpos"	"148"
 		"ypos"	"446"
 		"zpos"	"1"
-		"wide"	"80"
-		"tall"  "25"
+ 		"wide"	"0"
+		"tall"  "0"
 		"visible" "0"
 		"enabled" "0"
 
@@ -48,8 +48,8 @@
 		"xpos"	"c-28"
 		"ypos"	"446"
 		"zpos"	"1"
-		"wide"	"98"
-		"tall"  "25"
+ 		"wide"	"0"
+		"tall"  "0"
 		"visible" "0"
 		"enabled" "0"
 		
@@ -70,8 +70,8 @@
 		"xpos"	"r157"
 		"ypos"	"446"
 		"zpos"	"1"
-		"wide"	"142"
-		"tall"  "25"
+ 		"wide"	"0"
+		"tall"  "0"
 		"visible" "0"
 		"enabled" "0"
 
@@ -97,8 +97,8 @@
 		"fieldName" "HudAccount"
 		"xpos"	"r123"
 		"ypos"	"394"
-		"wide"	"108"
-		"tall"  "45"
+ 		"wide"	"0"
+		"tall"  "0"
 		"visible" "0"
 		"enabled" "0"
 
@@ -122,8 +122,8 @@
 		"enabled"				"0"
 		"xpos"					"0"
 		"ypos"					"480"
-		"wide"					"0"
-		"tall"					"0"
+ 		"wide"	"0"
+		"tall"  "0"
 	}
 
 	HudCommentary
@@ -584,7 +584,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos" "r34"
-		"ypos" "355"
+		"ypos" "455"
 		"wide" "24"
 		"tall" "24"
 	}
@@ -650,16 +650,16 @@
 		"visible"	"0"
 		"enabled" 	"1"
 		"xpos"		"r120"
-		"ypos"		"r340"
+		"ypos"		"346"
 		"wide"		"100"
 		"tall"		"200"
 		"text_xpos"	"8"
 		"text_ypos"	"8"
 		"text_xgap"	"8"
-		"text_ygap"	"8"
-		"TextColor"	"255 170 0 220"
+		"text_ygap"	"1"
+		"TextColor"	"255 255 255 255"
 
-		"PaintBackgroundType"	"2"
+		"PaintBackgroundType"	"0"
 	}
 
 	HudTerritory

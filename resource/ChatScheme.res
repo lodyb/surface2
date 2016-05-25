@@ -22,12 +22,12 @@ Scheme
 		"White"				"255 255 255 255"
 		"OffWhite"			"216 216 216 255"
 		"DullWhite"			"0 0 0 0"
-		"Orange"			"5 5 5 200"
-		"TransparentBlack"		"5 5 5 200"
-		"Black"				"5 5 5 200"
+		"Orange"			"5 5 5 0"
+		"TransparentBlack"		"5 5 5 0"
+		"Black"				"5 5 5 0"
 		"Blank"				"0 0 0 0"
-		"LightBlue"			"5 5 5 200"
-		"DarkBlue"			"5 5 5 200"
+		"LightBlue"			"5 5 5 0"
+		"DarkBlue"			"5 5 5 0"
 
 		"SteamLightGreen"	"5 5 5 200"
 		"AchievementsLightGrey"		"5 5 5 200"
@@ -75,15 +75,15 @@ Scheme
 		Frame.ClientInsetX				8
 		Frame.ClientInsetY				6
 		Frame.BgColor					"0 0 0 0"						//Overall overfalder
-		Frame.OutOfFocusBgColor			"5 5 5 200"						//Overfalder paa vinduer der er i baggrunden
+		Frame.OutOfFocusBgColor			"5 5 5 0"						//Overfalder paa vinduer der er i baggrunden
 		Frame.FocusTransitionEffectTime	"0.05"							// time it takes for a window to fade in/out on focus/out of focus
 		Frame.TransitionEffectTime		"0.05"							// time it takes for a window to fade in/out on open/close
 		Frame.AutoSnapRange				"0"
-		FrameGrip.Color1				"255 35 85 255"
+		FrameGrip.Color1				"255 35 85 0"
 		FrameGrip.Color2				"0 0 0 0"
 		FrameTitleButton.FgColor		"0 0 0 0"
 		FrameTitleButton.BgColor		"0 0 0 0"
-		FrameTitleButton.DisabledFgColor	"255 35 85 128"
+		FrameTitleButton.DisabledFgColor	"255 35 85 0"
 		FrameTitleButton.DisabledBgColor	"Blank"
 		FrameSystemButton.FgColor		"Blank"
 		FrameSystemButton.BgColor		"Blank"
@@ -115,7 +115,7 @@ Scheme
 		ListPanel.EmptyListInfoTextColor	"150 150 150 255"
 
 		Menu.TextColor					"White"
-		Menu.BgColor					"0 0 0 120"
+		Menu.BgColor					"0 0 0 0"
 		Menu.ArmedTextColor				"Black"
 		Menu.ArmedBgColor				"255 35 85 255"
 		Menu.TextInset					"6"
